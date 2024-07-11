@@ -4,7 +4,7 @@
 
 Das erste OCaml Meetup Saarbrücken findet statt am
 
-9. Juli 2024 vom 18:00-21:00 Uhr
+23. September 2024 vom 18:00-21:00 Uhr
 
 in
 
