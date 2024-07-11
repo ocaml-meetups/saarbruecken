@@ -4,7 +4,7 @@
 
 The first OCaml Meetup Saarbruecken is happening
 
-July 9, 2024 from 18:00-21:00 CEST
+September 23, 2024 from 18:00-21:00 CEST
 
 in
 
